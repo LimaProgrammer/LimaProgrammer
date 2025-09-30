@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do LimaPrammer 😁
+## Bem-vindo(a) ao perfil do LimaProgrammer 😁
 
  <div>
-   <a href="https://github.com/LimaPrammer">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LimaPrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaPrammer&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/LimaProgrammer">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LimaProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaProgrammer&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
